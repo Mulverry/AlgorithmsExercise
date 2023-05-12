@@ -1,3 +1,5 @@
+# https://lemonjade.tistory.com/11
+
 import sys
 input = sys.stdin.readline
 
