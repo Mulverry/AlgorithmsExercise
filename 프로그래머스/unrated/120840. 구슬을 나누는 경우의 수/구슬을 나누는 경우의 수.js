@@ -1,14 +1,10 @@
 function solution(balls, share) {
     let answer = 1;
-    if (share == 1 || balls-share == 1){
-        answer = balls
-    }else{
-        while (share){
-            answer *= balls/share 
-            balls--;
-            share--;
-        }
-    };
+    while (share){
+        answer *= balls/share 
+        balls--;
+        share--;
+    }
     return Math.round(answer)
 }
 
