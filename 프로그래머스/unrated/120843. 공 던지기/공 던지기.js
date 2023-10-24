@@ -1,8 +1,11 @@
 function solution(numbers, k) {
-    while (k-1) {
-        numbers.push(numbers.shift())
-        numbers.push(numbers.shift())
-        k--;    
+    let getBall = 1
+    while (k) {
+        getBall +=2
+        k--;
+        if (getBall > numbers.length){
+           numbers.length % 2 == 0 ? getBall = 1 : getBall = 2
+        }
     }
-    return numbers[0];
+    return getBall;
 }
