@@ -1,10 +1,10 @@
 # [level unrated] 영어가 싫어요 - 120894 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120894) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120894?language=python3) 
 
 ### 성능 요약
 
-메모리: 33.4 MB, 시간: 0.20 ms
+메모리: 10.3 MB, 시간: 0.02 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 11월 0일 12:8:25
+2023년 11월 0일 23:57:46
 
 ### 문제 설명
 
