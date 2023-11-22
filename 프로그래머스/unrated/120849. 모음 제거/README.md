@@ -1,10 +1,10 @@
 # [level unrated] 모음 제거 - 120849 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120849) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120849?language=python3) 
 
 ### 성능 요약
 
-메모리: 33.4 MB, 시간: 0.10 ms
+메모리: 10.2 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 10월 0일 12:5:40
+2023년 11월 3일 23:57:20
 
 ### 문제 설명
 
